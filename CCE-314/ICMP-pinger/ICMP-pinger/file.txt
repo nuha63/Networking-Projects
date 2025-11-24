@@ -1,0 +1,6 @@
+& ".\.venv\Scripts\python.exe" "d:/5th semester/Networking-lab/ICMP-pinger/pinge_server.py"
+Stop it cleanly: press Ctrl+C in the same terminal. You should see:
+Stopping ICMP server...
+ICMP server stopped.
+(base) PS D:\5th semester\Networking-lab\ICMP-pinger> & ".\.venv\Scripts\python.exe" "d:/5th semester/Networking-lab/ICMP-pinger/icmp_pinger_gui.py"127.0.0.1
+".\.venv\Scripts\python.exe" "d:/5th semester/Networking-lab/ICMP-pinger/icmp_pinger_gui.py" 127.0.0.1 --simulate
